@@ -15,7 +15,7 @@ framework:
     - name: sap.ui.comp
     - name: sap.ui.generic.app
     - name: sap.suite.ui.generic.template
-    - name: themelib_sap_horizon
+    - name: themelib_sap_horizon_dark
 server:
   customMiddleware:
     - name: fiori-tools-appreload
@@ -28,7 +28,7 @@ server:
       afterMiddleware: fiori-tools-appreload
       configuration:
         flp:
-          theme: sap_horizon
+          theme: sap_horizon_dark
     - name: fiori-tools-proxy
       afterMiddleware: compression
       configuration:

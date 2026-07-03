@@ -9,7 +9,7 @@
     "appTitle": "App Title",
     "appDescription": "An SAP Fiori application.",
     "appNamespace": "",
-    "ui5Theme": "sap_horizon",
+    "ui5Theme": "sap_horizon_dark",
     "ui5Version": "1.120.14",
     "enableEslint": true,
     "enableTypeScript": false,

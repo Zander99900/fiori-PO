@@ -11,7 +11,7 @@
 |**Module Name**<br>project3|
 |**Application Title**<br>App Title|
 |**Namespace**<br>|
-|**UI5 Theme**<br>sap_horizon|
+|**UI5 Theme**<br>sap_horizon_dark|
 |**UI5 Version**<br>1.120.14|
 |**Enable TypeScript**<br>False|
 |**Add Eslint configuration**<br>True, see https://www.npmjs.com/package/@sap-ux/eslint-plugin-fiori-tools#rules for the eslint rules.|
